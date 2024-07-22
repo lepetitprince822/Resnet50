@@ -1,2 +1,2 @@
-Resnet50 reproduction code, acc up to 87%     
+Resnet50 reproduction code, acc to 87%，data: CIFAR-10    
                                                                                                                                                from：le_petit_prince
